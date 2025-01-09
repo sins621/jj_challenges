@@ -1,887 +1,2019 @@
 {
-  "numFound": 86,
+  "numFound": 361255,
   "start": 0,
   "numFoundExact": true,
   "docs": [
     {
-      "key": "OL1436488A",
-      "name": "Bradly J. Condon",
+      "key": "OL5036792A",
+      "name": "A. A.",
       "top_subjects": [
-        "World Trade Organization",
-        "International",
-        "World trade organization",
-        "United States",
-        "North america, economic conditions",
-        "International cooperation",
-        "General",
-        "Free trade, north america",
-        "Free trade",
-        "Foreign trade regulation"
+        "Resistance to Government",
+        "Psychic trauma",
+        "Ladino literature",
+        "Ice",
+        "Great Britain",
+        "Fiction",
+        "English",
+        "England",
+        "Discovery and exploration",
+        "Church and state"
       ],
-      "top_work": "Role of Climate Change in Global Economic Governance",
+      "top_work": "De la rupture des glaces du p\u00f4le arctique ou Observations g\u00e9ographiques, physiques et m\u00e9t\u00e9orologiques sur les mers et les contr\u00e9es du p\u00f4le arctique: dans lesquelles, en rendant compte de la rupture des glaces de ces contr\u00e9es, on cherche \u00e0 expliquer la cause du froid \u00e9prouv\u00e9 depuis trois ans, et occasionn\u00e9 par la pr\u00e9sence de ces masses de glaces que les navigateurs ont rencontr\u00e9es dans l'oc\u00e9an Atlantique; suivies d'une notice sur l'exp\u00e9dition faite par le gouvernement anglais pour d\u00e9terminer les limites septentrionales de l'Asie et de l'Am\u00e9rique, et chercher un passage par le nord-ouest de l'oc\u00e9 an Atlantique \u00e0 l'oc\u00e9an Pacifique",
+      "type": "author",
+      "work_count": 23,
+      "_version_": 1796038574325366794
+    },
+    {
+      "key": "OL8506032A",
+      "name": "A. A",
+      "top_subjects": [
+        "House of Romanov"
+      ],
+      "top_work": "Introduction to the Study of Painted Glass",
+      "type": "author",
+      "work_count": 51,
+      "_version_": 1796088983121297420
+    },
+    {
+      "key": "OL9941180A",
+      "name": "a a",
+      "top_subjects": [
+        "Pr\u00e0ctica professional",
+        "Odontologia"
+      ],
+      "top_work": "Netter. Neuroanatom\u00eda esencial",
+      "type": "author",
+      "work_count": 34,
+      "_version_": 1796109473478082566
+    },
+    {
+      "alternate_names": [
+        "N/A",
+        "N a",
+        "N/a",
+        "N/A.",
+        "n a",
+        "N. A.",
+        "N A",
+        "n-a",
+        "N / A",
+        "--N/A--",
+        "N/A, N/A, N/A"
+      ],
+      "key": "OL2704230A",
+      "name": "n/a",
+      "top_subjects": [
+        "Politics and government",
+        "History",
+        "Dictionaries",
+        "Congresses",
+        "United States",
+        "English language",
+        "German",
+        "Fiction",
+        "English",
+        "Children's fiction"
+      ],
+      "top_work": "Runway zero-eight, by Arthur Hailey and John Castle [pseud.].",
+      "type": "author",
+      "work_count": 1182,
+      "ratings_average": 0.0,
+      "ratings_sortable": 2.047372,
+      "ratings_count": 0,
+      "ratings_count_1": 0,
+      "ratings_count_2": 0,
+      "ratings_count_3": 0,
+      "ratings_count_4": 0,
+      "ratings_count_5": 0,
+      "want_to_read_count": 15,
+      "already_read_count": 1,
+      "currently_reading_count": 2,
+      "readinglog_count": 18,
+      "_version_": 1817431738484260864
+    },
+    {
+      "alternate_names": [
+        "n/a.",
+        "N/A N/A",
+        "n/a;n/a",
+        "N /A",
+        "N. A"
+      ],
+      "key": "OL7291780A",
+      "name": "N/A",
+      "top_subjects": [
+        "Ouvrages pour la jeunesse",
+        "Juvenile literature",
+        "English language, dictionaries",
+        "English language",
+        "Dictionaries",
+        "Desserts",
+        "Counting",
+        "Caricatures and cartoons",
+        "Calcul",
+        "Animals"
+      ],
+      "top_work": "Microwave",
+      "type": "author",
+      "work_count": 70,
+      "ratings_average": 0.0,
+      "ratings_sortable": 2.047372,
+      "ratings_count": 0,
+      "ratings_count_1": 0,
+      "ratings_count_2": 0,
+      "ratings_count_3": 0,
+      "ratings_count_4": 0,
+      "ratings_count_5": 0,
+      "want_to_read_count": 3,
+      "already_read_count": 0,
+      "currently_reading_count": 0,
+      "readinglog_count": 3,
+      "_version_": 1817281680071720961
+    },
+    {
+      "alternate_names": [
+        "Bouchardat A.",
+        "BOUCHARDAT-A",
+        "A Bouchardat",
+        "A. Bouchardat"
+      ],
+      "birth_date": "1806",
+      "death_date": "1886",
+      "key": "OL355495A",
+      "name": "Apollinaire Bouchardat",
+      "top_subjects": [
+        "Medicine",
+        "Formulae, receipts, prescriptions",
+        "Therapeutics",
+        "Wine",
+        "Pharmaceutical Preparations",
+        "Materia Medica",
+        "Hygiene",
+        "Veterinary Drugs",
+        "Typhus, epidemic louse-borne",
+        "Therapeutic use"
+      ],
+      "top_work": "Manuel de matiere medicale de therapeutique et de pharmacie. v.2, 1864-65",
+      "type": "author",
+      "work_count": 73,
+      "_version_": 1796018726343016462
+    },
+    {
+      "alternate_names": [
+        "A. A. Schakhmatov",
+        "A. A. 1864-1920 Shakhmatov"
+      ],
+      "birth_date": "1864",
+      "death_date": "1920",
+      "key": "OL49156A",
+      "name": "A. A. Shakhmatov",
+      "top_subjects": [
+        "History",
+        "Russian language",
+        "Russia",
+        "To 1533",
+        "Sources",
+        "Kievan Rus",
+        "Grammar",
+        "Ukraine",
+        "Russians",
+        "Dialects"
+      ],
+      "top_work": "Ocherk sovremennogo russkogo literaturnogo iazyka",
+      "type": "author",
+      "work_count": 94,
+      "ratings_average": 0.0,
+      "ratings_sortable": 2.047372,
+      "ratings_count": 0,
+      "ratings_count_1": 0,
+      "ratings_count_2": 0,
+      "ratings_count_3": 0,
+      "ratings_count_4": 0,
+      "ratings_count_5": 0,
+      "want_to_read_count": 2,
+      "already_read_count": 0,
+      "currently_reading_count": 0,
+      "readinglog_count": 2,
+      "_version_": 1817117966507966464
+    },
+    {
+      "key": "OL1131475A",
+      "name": "A. A. Alekseev",
+      "top_subjects": [
+        "Russia (Federation)",
+        "Bible",
+        "Versions",
+        "History and criticism",
+        "History",
+        "Ural Mountains Region",
+        "To 1700",
+        "Slavic countries",
+        "Russian literature",
+        "Intrusions (Geology)"
+      ],
+      "top_work": "Jews & Slavs",
+      "type": "author",
+      "work_count": 47,
+      "_version_": 1795955447467868169
+    },
+    {
+      "key": "OL1146352A",
+      "name": "Volkov, A. A.",
+      "top_subjects": [
+        "Russia (Federation)",
+        "Linguistics",
+        "Biography",
+        "Soviet Union",
+        "Rhetoric",
+        "Politics and government",
+        "Language and literature",
+        "Language and languages",
+        "Economic policy",
+        "1991-"
+      ],
+      "top_work": "Aktual\u02b9nye voprosy vneshne\u012d i vnutrenne\u012d lingvistiki",
+      "type": "author",
+      "work_count": 36,
+      "_version_": 1795956307299139589
+    },
+    {
+      "key": "OL1136398A",
+      "name": "A. A. Korolev",
+      "top_subjects": [
+        "Soviet Union",
+        "Russia (Federation)",
+        "Russia",
+        "Politics and government",
+        "History",
+        "Youth",
+        "Vsesoi\ufe20u\ufe21zny\u012d leninski\u012d kommunisticheski\u012d soi\ufe20u\ufe21z molodezhi",
+        "T\ufe20S\ufe21K KPSS. Prezidium",
+        "T\ufe20S\ufe21K KPSS. Politbi\ufe20u\ufe21ro",
+        "T\ufe20S\ufe21K KPSS"
+      ],
+      "top_work": "Drevne\u012dshie pami\ufe20a\ufe21tniki irlandskogo i\ufe20a\ufe21zyka",
+      "type": "author",
+      "work_count": 21,
+      "_version_": 1795956677712805890
+    },
+    {
+      "key": "OL1143762A",
+      "name": "A. A. Dmitriev",
+      "top_subjects": [
+        "Climate",
+        "Meteorology",
+        "Atmospheric circulation",
+        "Soviet Union",
+        "Solar activity",
+        "Observations",
+        "Northern Russia",
+        "Northeast Passage",
+        "Moscow Region (Russia)",
+        "Long-range weather forecasting"
+      ],
+      "top_work": "Makromasshtabnye atmosfernye prot\ufe20s\ufe21essy i srednesrochnye prognozy pogody v Arktike",
+      "type": "author",
+      "work_count": 20,
+      "_version_": 1795956800822968326
+    },
+    {
+      "key": "OL11419513A",
+      "name": "A. A Milne",
+      "top_work": "Now we are six",
+      "type": "author",
+      "work_count": 32,
+      "_version_": 1795957005600423939
+    },
+    {
+      "key": "OL1136576A",
+      "name": "A. A. Zvorykin",
+      "top_subjects": [
+        "Soviet Union",
+        "Social aspects",
+        "Science",
+        "Research",
+        "Technology",
+        "Management",
+        "Coal mines and mining",
+        "Working class",
+        "Societies",
+        "Scientists"
+      ],
+      "top_work": "Problemy sot\ufe20s\ufe21ial\u02b9nogo planirovanii\ufe20a\ufe21 v nauchnom kollektive",
+      "type": "author",
+      "work_count": 55,
+      "_version_": 1795957200838983683
+    },
+    {
+      "key": "OL1151545A",
+      "name": "A. A. Klimov",
+      "top_subjects": [
+        "Russia (Federation)",
+        "Ukraine",
+        "Soviet Union",
+        "Soviet Union",
+        "Ukra\u00efns\u02b9ka povstans\u02b9ka armii\ufe20a\ufe21",
+        "Soviet Union. Narodny\u012d komissariat vnutrennikh del",
+        "Regional planning",
+        "Orhanizat\ufe20s\ufe21ii\ufe20a\ufe21 ukra\u00efns\u02b9kykh nat\ufe20s\ufe21ionalistiv",
+        "History",
+        "Foreign economic relations"
+      ],
+      "top_work": "Povyshenie finansovo\u012d gramotnosti naselenii\ufe20a\ufe21",
+      "type": "author",
+      "work_count": 22,
+      "_version_": 1795957690677067787
+    },
+    {
+      "key": "OL10142510A",
+      "name": "A A Milne",
+      "top_work": "Winnie-the-Pooh",
+      "type": "author",
+      "work_count": 37,
+      "_version_": 1795936997675630611
+    },
+    {
+      "key": "OL1031269A",
+      "name": "A. A. Krylov",
+      "top_subjects": [
+        "Russia (Federation)",
+        "Human engineering",
+        "Experimental Psychology",
+        "Psychology",
+        "Personality",
+        "Time management",
+        "Study skills",
+        "Study and teaching",
+        "Students",
+        "Soviet Union"
+      ],
+      "top_work": "Lichnost\u02b9 i dei\ufe20a\ufe21tel\u02b9nost\u02b9",
+      "type": "author",
+      "work_count": 34,
+      "_version_": 1795938611708821515
+    },
+    {
+      "key": "OL1123929A",
+      "name": "A. A. Berk",
+      "top_subjects": [
+        "Data processing",
+        "Artificial intelligence",
+        "Production control",
+        "Process control",
+        "Microcomputers",
+        "LISP (Computer program language)",
+        "Systems analysis & design",
+        "SuperBASIC (Computer program language)",
+        "Sinclair zx spectrum (computer)",
+        "Sinclair QL (Computer)"
+      ],
+      "top_work": "The art of micro design",
       "type": "author",
       "work_count": 24,
-      "_version_": 1795990546257281024
+      "_version_": 1795952358397575180
     },
     {
-      "key": "OL13197866A",
-      "name": "Bradly Halestorm",
+      "key": "OL1091580A",
+      "name": "A. A. Bondarenko",
       "top_subjects": [
-        "Games",
-        "Fiction, fantasy, general",
-        "Fiction, thrillers, suspense",
-        "Fiction, horror",
-        "Fiction, action & adventure"
-      ],
-      "top_work": "Convictor Drive",
-      "type": "author",
-      "work_count": 14,
-      "_version_": 1795984377126060041
-    },
-    {
-      "key": "OL2794235A",
-      "name": "Bradly S. Billings",
-      "top_subjects": [
-        "Versions",
-        "P\u00e2que dans le Nouveau Testament",
-        "Passover in the New Testament",
-        "Lucas (bijbelboek)",
-        "Last Supper",
-        "Heilig Avondmaal",
-        "Gedachtenis",
-        "Derni\u00e8re C\u00e8ne",
-        "Critique, interpr\u00e9tation",
-        "Criticism, interpretation"
-      ],
-      "top_work": "Making the Word of God Fully Known",
-      "type": "author",
-      "work_count": 8,
-      "_version_": 1796010102718726158
-    },
-    {
-      "key": "OL7340300A",
-      "name": "Truitt L. Bradly",
-      "top_subjects": [
-        "Microsoft access (computer program)",
-        "Microsoft Access",
-        "Database management",
-        "Small business, management",
-        "Small business",
-        "Management",
-        "Engineering & Applied Sciences",
-        "Computer Science"
-      ],
-      "top_work": "Access 2010 24-Hour Trainer",
-      "type": "author",
-      "work_count": 8,
-      "_version_": 1796073471145410566
-    },
-    {
-      "key": "OL9747978A",
-      "name": "Bradly Straud",
-      "top_subjects": [
-        "Self-help techniques"
-      ],
-      "top_work": "W.O.W. Factor",
-      "type": "author",
-      "work_count": 6,
-      "_version_": 1796107120376020997
-    },
-    {
-      "key": "OL9805994A",
-      "name": "Bradly",
-      "top_work": "Marvel MALBUCH",
-      "type": "author",
-      "work_count": 3,
-      "_version_": 1796105888549830656
-    },
-    {
-      "birth_date": "1872",
-      "key": "OL2495162A",
-      "name": "Alfred Bradly Gough",
-      "top_subjects": [
-        "Legends",
-        "Emare",
-        "Comparative literature",
-        "Comparative Literature"
-      ],
-      "top_work": "The Constance saga",
-      "type": "author",
-      "work_count": 5,
-      "_version_": 1796005470773706757
-    },
-    {
-      "key": "OL12389839A",
-      "name": "Alfred Bradly Gough",
-      "top_work": "Essays and Other Prose Writings. Edited by Alfred B. Gough",
-      "type": "author",
-      "work_count": 5,
-      "_version_": 1795972427452252166
-    },
-    {
-      "key": "OL3670630A",
-      "name": "Robert Penn Bradly",
-      "top_subjects": [
-        "Transportation",
+        "20th century",
+        "Nicholas Roerich (1874-1947)",
+        "Exhibitions",
+        "Sources",
         "History",
-        "Great Britain",
-        "Automobiles, history",
-        "Automobiles"
+        "Tomskai\ufe20a\ufe21 oblast\u02b9 (Russia)",
+        "Soviet Union",
+        "Russian Painting",
+        "George Roerich",
+        "19th century"
       ],
-      "top_work": "Armstrong Siddeley",
+      "top_work": "N.K. Rerikh, krug zhizni, Sankt-Peterburg",
       "type": "author",
-      "work_count": 5,
-      "_version_": 1796021590079569930
+      "work_count": 26,
+      "_version_": 1795947753751183366
     },
     {
-      "key": "OL11269675A",
-      "name": "Bradly Hessing",
-      "top_work": "Eternal Night",
-      "type": "author",
-      "work_count": 4,
-      "_version_": 1795953485929250822
-    },
-    {
-      "key": "OL12992593A",
-      "name": "Bradly Billings",
-      "top_work": "Do This in Remembrance of Me : The Disputed Words in the Lukan Institution Narrative",
-      "type": "author",
-      "work_count": 4,
-      "_version_": 1795981017012502530
-    },
-    {
-      "key": "OL12295603A",
-      "name": "Bradly Jay Keller",
-      "top_work": "Life is Living Life",
-      "type": "author",
-      "work_count": 4,
-      "_version_": 1795969563642298384
-    },
-    {
-      "key": "OL7653643A",
-      "name": "Bradly J. Boner",
+      "key": "OL1096970A",
+      "name": "A. A. Grechikhin",
       "top_subjects": [
-        "Yellowstone national park",
-        "Jackson, william henry, 1843-1942"
+        "Soviet Union",
+        "Handbooks, manuals",
+        "Economic history",
+        "Booksellers and bookselling",
+        "Books",
+        "Book industries and trade",
+        "Textbooks",
+        "Sociological aspects",
+        "Social aspects",
+        "Russia"
       ],
-      "top_work": "Yellowstone National Park",
+      "top_work": "Kniga v Rossii",
       "type": "author",
-      "work_count": 3,
-      "_version_": 1796076735556485121
+      "work_count": 23,
+      "_version_": 1795947861329838080
     },
     {
-      "key": "OL11329671A",
-      "name": "Bradly Preisach",
-      "top_work": "Harry Bensley : Who Started the Walk-In 1908 for a Wager",
+      "key": "OL10871614A",
+      "name": "A. A. Chalaby",
+      "top_work": "Good Harry",
       "type": "author",
-      "work_count": 2,
-      "_version_": 1795954863165669384
+      "work_count": 20,
+      "_version_": 1795948216264425475
     },
     {
-      "key": "OL11332062A",
-      "name": "Bradly Hamling",
-      "top_work": "Italian Recipes",
-      "type": "author",
-      "work_count": 2,
-      "_version_": 1795955354734952452
-    },
-    {
-      "key": "OL11341664A",
-      "name": "Anissa Bradly",
-      "top_work": "Guidelines for Loved Ones of a Person with BPD",
-      "type": "author",
-      "work_count": 2,
-      "_version_": 1795955607774167050
-    },
-    {
-      "key": "OL11316353A",
-      "name": "Bradly Whitherspoon",
-      "top_work": "How to Improve Your Video Poker Play : Video Poker Tips and Tricks",
-      "type": "author",
-      "work_count": 2,
-      "_version_": 1795955946743136268
-    },
-    {
-      "key": "OL11325584A",
-      "name": "Bradly Varland",
-      "top_work": "Great Moment of Virginia Mayo Life : a Path of Being Famous",
-      "type": "author",
-      "work_count": 2,
-      "_version_": 1795956108089622528
-    },
-    {
-      "key": "OL11334534A",
-      "name": "Bradly Stutzman",
-      "top_work": "Big Book of Keto Snacks",
-      "type": "author",
-      "work_count": 2,
-      "_version_": 1795956116947992589
-    },
-    {
-      "key": "OL11345944A",
-      "name": "Bradly Paulino",
-      "top_work": "Stories of Jazz Musicians : Earn a Living by Singing Favorite Tunes",
-      "type": "author",
-      "work_count": 2,
-      "_version_": 1795956641197195268
-    },
-    {
-      "key": "OL11319259A",
-      "name": "Bradly Byrns",
-      "top_work": "Life Skills for Children Guidebook : Parenting Right Ways",
-      "type": "author",
-      "work_count": 2,
-      "_version_": 1795956736804257795
-    },
-    {
-      "key": "OL11329020A",
-      "name": "Bradly Mackerl",
-      "top_work": "Guide to Grow Younger : Using Law of Attraction to Live a Joyful",
-      "type": "author",
-      "work_count": 2,
-      "_version_": 1795957165042696204
-    },
-    {
-      "key": "OL10036684A",
-      "name": "Bradly Pooni",
-      "top_work": "Make the Engine of Your Imagination Work : Technology of Plot Development and Screenwriting",
-      "type": "author",
-      "work_count": 2,
-      "_version_": 1795935512616239106
-    },
-    {
-      "key": "OL10003791A",
-      "name": "Bradly Jacobs",
+      "key": "OL1088271A",
+      "name": "A. A. Bokshchanin",
       "top_subjects": [
-        "Methods",
-        "Evidenz-basierte Medizin",
-        "Evidence-based medicine",
-        "Evidence-Based Medicine",
-        "Complementary Therapies",
-        "Alternative medicine",
-        "Alternative Medizin"
+        "History",
+        "China",
+        "Ming dynasty, 1368-1644",
+        "Foreign relations",
+        "Fiefs",
+        "Study and teaching (Higher)",
+        "Southeastern Asia",
+        "Sources",
+        "Social life and customs",
+        "Social conditions"
       ],
-      "top_work": "The ACP evidence-based guide to complementary and alternative medicine",
+      "top_work": "Istorii\ufe20a\ufe21 Kitai\ufe20a\ufe21",
       "type": "author",
-      "work_count": 2,
-      "_version_": 1795936351942606852
+      "work_count": 22,
+      "_version_": 1795948719871361030
     },
     {
-      "key": "OL11040116A",
-      "name": "Bradly Billman",
-      "top_work": "Four Principles of Effective Innovation",
+      "key": "OL10937798A",
+      "name": "A. A. Albright",
+      "top_work": "Shiver Me Witches (a Riddler's Edge Cozy Mystery #4)",
       "type": "author",
-      "work_count": 2,
-      "_version_": 1795952032600817665
+      "work_count": 32,
+      "_version_": 1795949054856790032
     },
     {
-      "key": "OL11152865A",
-      "name": "Bradly Stan",
-      "top_work": "Chromecast",
+      "key": "OL1082415A",
+      "name": "A. A. Abramova",
+      "top_subjects": [
+        "Soviet Union",
+        "Labor laws and legislation",
+        "Labor discipline",
+        "Women",
+        "Mari language",
+        "Law",
+        "Employment",
+        "Dictionaries",
+        "Uzbekistan",
+        "Travel regulations"
+      ],
+      "top_work": "Trud zhenshchin",
       "type": "author",
-      "work_count": 2,
-      "_version_": 1795953201921392643
+      "work_count": 37,
+      "_version_": 1795947547531935750
     },
     {
-      "key": "OL10796638A",
-      "name": "Bradly Mike",
-      "top_work": "AIR MAX Coloring Book",
+      "key": "OL1098151A",
+      "name": "A. A. Pavlov",
+      "top_subjects": [
+        "Russia (Federation)",
+        "Biography",
+        "Sakha",
+        "Governors",
+        "Sakha (Russia)",
+        "Politics and government",
+        "Control theory",
+        "Vrevski\u012d family",
+        "Teachers",
+        "Specific performance"
+      ],
+      "top_work": "Osnovy sistemnogo analiza i proektirovaniia ASU",
       "type": "author",
-      "work_count": 2,
-      "_version_": 1795945341550329870
+      "work_count": 24,
+      "_version_": 1795948633082822663
     },
     {
-      "key": "OL10794853A",
-      "name": "Bradly Kyger",
-      "top_work": "Arthritis Anti-Inflammatory : How to Plan Diet for Personal Health",
+      "key": "OL1098380A",
+      "name": "A. A. Kovalev",
+      "top_subjects": [
+        "Russia (Federation)",
+        "Soviet Union",
+        "Socialism",
+        "Politics and government",
+        "History",
+        "Biography",
+        "1991-",
+        "Study and teaching",
+        "Post-communism",
+        "Perestro\u012dka"
+      ],
+      "top_work": "Accelerating and Vortex Laser Beams",
       "type": "author",
-      "work_count": 2,
-      "_version_": 1795944852974731265
+      "work_count": 52,
+      "_version_": 1795949108653981712
     },
     {
-      "key": "OL12940571A",
-      "name": "Bradly Rispoli",
-      "top_work": "Discovery CBD Oil : CBD Oil with Your Health",
+      "key": "OL1050436A",
+      "name": "A. A. Kolesnikov",
+      "top_subjects": [
+        "History",
+        "Turkey",
+        "Politics and government",
+        "Sources",
+        "Russian",
+        "Ethnology",
+        "Discovery and exploration",
+        "20th century",
+        "1918-1960",
+        "Xinjiang Uygur Zizhiqu (China)"
+      ],
+      "top_work": "Osh glazami russkikh issledovatele\u012d, vtorai\ufe20a\ufe21 polovina XIX-nachalo XX vv",
       "type": "author",
-      "work_count": 2,
-      "_version_": 1795979508160921601
+      "work_count": 24,
+      "_version_": 1795942800395599873
     },
     {
-      "key": "OL12968718A",
-      "name": "Bradly Mehserle",
-      "top_work": "Stoic Path to Stillness : How to Find Inner Peace",
+      "key": "OL2175617A",
+      "name": "A. A. Bakirov",
+      "top_subjects": [
+        "Petroleum",
+        "Natural gas",
+        "Geology",
+        "Prospecting",
+        "Searches and seizures",
+        "Russia (Federation)",
+        "Criminal investigation",
+        "Crime scene searches",
+        "Structural Geology",
+        "Geomorphology"
+      ],
+      "top_work": "Paleotektonika i paleogeomorfologii\ufe20a\ufe21 v nefti\ufe20a\ufe21no\u012d geologii",
       "type": "author",
-      "work_count": 2,
-      "_version_": 1795979774951161863
+      "work_count": 20,
+      "_version_": 1796000368680763399
     },
     {
-      "key": "OL12961778A",
-      "name": "Bill bradly",
-      "top_work": "World War Two",
+      "key": "OL2016836A",
+      "name": "A. A. MacDonald",
+      "top_subjects": [
+        "History and criticism",
+        "History",
+        "Learning and scholarship",
+        "Intellectual life",
+        "English literature",
+        "Economic conditions",
+        "Scottish authors",
+        "Nova Scotia",
+        "Congresses",
+        "To 1700"
+      ],
+      "top_work": "Schooling and society",
       "type": "author",
-      "work_count": 2,
-      "_version_": 1795980217031852032
+      "work_count": 48,
+      "_version_": 1796000605974560774
     },
     {
-      "key": "OL12970878A",
-      "name": "Bradly Stokesbary",
+      "birth_date": "1909",
+      "key": "OL2081323A",
+      "name": "A. A. Arakeli\u0361an",
+      "top_subjects": [
+        "Soviet Union",
+        "Industries",
+        "Industrial management",
+        "Economic policy",
+        "Wages",
+        "Vladimir Il\u02b9ich Lenin (1870-1924)",
+        "Technology",
+        "Russia",
+        "Labor productivity",
+        "Economic conditions"
+      ],
+      "top_work": "Planirovanie narodnogo khozi\ufe20a\ufe21\u012dstva SSSR",
+      "type": "author",
+      "work_count": 36,
+      "_version_": 1796000670113857536
+    },
+    {
+      "key": "OL258821A",
+      "name": "A. A. Frenkel\u02b9",
+      "top_subjects": [
+        "Economic forecasting",
+        "Mathematical models",
+        "Labor productivity",
+        "Russia (Federation)",
+        "Economic conditions",
+        "1991-",
+        "Statistics",
+        "Soviet Union",
+        "Time-series analysis",
+        "Mathematicians"
+      ],
+      "top_work": "Prognozirovanie proizvoditel\u02b9nosti truda",
+      "type": "author",
+      "work_count": 29,
+      "_version_": 1796007725535068170
+    },
+    {
+      "key": "OL271572A",
+      "name": "A. A. Jones",
+      "top_subjects": [
+        "Shelf-life dating",
+        "Religion",
+        "Poetry (poetic works by one author)",
+        "Food",
+        "Technology / Food Industry & Science",
+        "Technology & Industrial Arts",
+        "Technology",
+        "Storage",
+        "Science/Mathematics",
+        "Preservation"
+      ],
+      "top_work": "Purpose From the Pain",
+      "type": "author",
+      "work_count": 20,
+      "_version_": 1796007988568260616
+    },
+    {
+      "key": "OL269677A",
+      "name": "A. A. Petrov",
+      "top_subjects": [
+        "Russia (Federation)",
+        "Mathematical models",
+        "Soviet Union",
+        "History",
+        "Generals",
+        "Biography",
+        "World War, 1939-1945",
+        "Underground movements",
+        "Tverskai \ufe20a\ufe21 oblast\u02b9",
+        "System analysis"
+      ],
+      "top_work": "Tradit\ufe20s\ufe21ionnai\ufe20a\ufe21 kul\u02b9tura Tverskogo krai\ufe20a\ufe21",
+      "type": "author",
+      "work_count": 39,
+      "_version_": 1796008168463007751
+    },
+    {
+      "key": "OL276468A",
+      "name": "A. A. Kuznet\u0361sov",
+      "top_subjects": [
+        "Soviet Union",
+        "Russia",
+        "Medals",
+        "Decorations of honor",
+        "Military decorations",
+        "Air traffic control",
+        "Tambovskai\ufe20a\ufe21 oblast\u02b9 (Russia)",
+        "Tambovskai\ufe20a\ufe21 oblast\u02b9",
+        "Russia (Federation)",
+        "Rural conditions"
+      ],
+      "top_work": "Nagradnai\u0361a medal\u02b9",
+      "type": "author",
+      "work_count": 21,
+      "_version_": 1796009950352244737
+    },
+    {
+      "key": "OL281302A",
+      "name": "A. A. Danilov",
+      "top_subjects": [
+        "History",
+        "Soviet Union",
+        "Russia (Federation)",
+        "Russia",
+        "Study and teaching",
+        "1991-",
+        "1801-1917",
+        "Politics and government",
+        "Chuvashia",
+        "Television broadcasting"
+      ],
+      "top_work": "Istorii\ufe20a\ufe21 Rossii",
+      "type": "author",
+      "work_count": 70,
+      "_version_": 1796009966135410700
+    },
+    {
+      "key": "OL2851082A",
+      "name": "A. A. Lindsay",
+      "top_subjects": [
+        "Love"
+      ],
+      "top_work": "The New Psychology",
+      "type": "author",
+      "work_count": 31,
+      "_version_": 1796010044285779973
+    },
+    {
+      "key": "OL238450A",
+      "name": "A. A. Ivanov",
+      "top_subjects": [
+        "Russia (Federation)",
+        "History",
+        "Russia",
+        "20th century",
+        "Soviet Union",
+        "Biography",
+        "World War, 1939-1945",
+        "Mari El (Russia)",
+        "Sources",
+        "Rural conditions"
+      ],
+      "top_work": "Geometry of sporadic groups",
+      "type": "author",
+      "work_count": 131,
+      "_version_": 1796004018667913217
+    },
+    {
+      "birth_date": "1879",
+      "key": "OL2384783A",
+      "name": "A. A. Houghton",
+      "top_subjects": [
+        "Concrete",
+        "Concrete construction",
+        "Walls",
+        "Silage",
+        "Sidewalks",
+        "Monuments. [from old catalog]",
+        "Fountains"
+      ],
+      "top_work": "Concrete wall forms",
+      "type": "author",
+      "work_count": 23,
+      "_version_": 1796004018696224776
+    },
+    {
+      "key": "OL2471902A",
+      "name": "Sidorov, A. A.",
+      "top_subjects": [
+        "History",
+        "Russian Folk songs",
+        "Russia",
+        "Prisoners' songs",
+        "Criminals",
+        "Soviet Union",
+        "Songs and music",
+        "International relations",
+        "World politics",
+        "Russia (Federation)"
+      ],
+      "top_work": "Mineralogii\ufe20a\ufe21 i geokhimii\ufe20a\ufe21 rudnykh mestorozhdeni\u012d Severo-Vostoka SSSR",
+      "type": "author",
+      "work_count": 40,
+      "_version_": 1796004230799032332
+    },
+    {
+      "key": "OL2513787A",
+      "name": "A. A. Caruana",
+      "top_subjects": [
+        "Malta",
+        "Antiquities",
+        "Tombs",
+        "Archaeology",
+        "Ancient Pottery",
+        "Saint Agatha. Crypt (Malta)",
+        "Saint Agatha",
+        "Mural painting and decoration",
+        "Mollusks",
+        "Maltese Islands"
+      ],
+      "top_work": "Ancient pottery from the ancient pagan tombs and Christian cemeteries in the islands of Malta",
+      "type": "author",
+      "work_count": 23,
+      "_version_": 1796005255744323591
+    },
+    {
+      "key": "OL1592871A",
+      "name": "A. A. Fedotov",
+      "top_subjects": [
+        "Russkai\ufe20a\ufe21 pravoslavnai\ufe20a\ufe21 t\ufe20s\ufe21erkov\u02b9",
+        "Russia (Federation)",
+        "History",
+        "Church history",
+        "Church and state",
+        "Biography",
+        "20th century",
+        "Soviet Union",
+        "Orthodox Eastern Church",
+        "Ivanovskai\ufe20a\ufe21 oblast\u02b9 (Russia)"
+      ],
+      "top_work": "Arkhipastyr\u02b9",
+      "type": "author",
+      "work_count": 27,
+      "_version_": 1795992595662372868
+    },
+    {
+      "key": "OL1529688A",
+      "name": "A. A. Borisov",
+      "top_subjects": [
+        "Science/Mathematics",
+        "Climate",
+        "Technology & Industrial Arts",
+        "Soviet Union",
+        "History",
+        "Explosions",
+        "Combustion",
+        "Aeronautical Engineering (Specific Aspects)",
+        "Russia (Federation)",
+        "Fossil fuel technologies"
+      ],
+      "top_work": "Klimaty SSSR",
+      "type": "author",
+      "work_count": 65,
+      "_version_": 1795992903638581248
+    },
+    {
+      "key": "OL1543599A",
+      "name": "A. A. Tishkin",
+      "top_subjects": [
+        "Antiquities",
+        "Excavations (Archaeology)",
+        "Russia (Federation)",
+        "Alta\u012dski\u012d kra\u012d (Russia)",
+        "Alta\u012dski\u012d kra\u012d",
+        "Nomads",
+        "History",
+        "Siberia (Russia)",
+        "Siberia",
+        "Central Asia"
+      ],
+      "top_work": "Sot\ufe20s\ufe21ial\u02b9nai\ufe20a\ufe21 struktura rannikh kochevnikov Evrazii =",
+      "type": "author",
+      "work_count": 44,
+      "_version_": 1795994090211377153
+    },
+    {
+      "birth_date": "1803",
+      "death_date": "1861",
+      "key": "OL158949A",
+      "name": "A. A. Berthold",
+      "top_subjects": [
+        "Physiology",
+        "Zoology",
+        "Universit\u00e4t G\u00f6ttingen Zoologisch-Zootomisches Institut",
+        "Universit\u00e4t G\u00f6ttingen",
+        "Prolonged Pregnancy",
+        "Physiology, education",
+        "Nails, growth & development",
+        "Hair, growth & development",
+        "Gestational Age"
+      ],
+      "top_work": "Beobachtungen \u00fcber das quantitative Verh\u00e4ltniss der Nagel- und Haarbildung beim Menschen",
+      "type": "author",
+      "work_count": 23,
+      "_version_": 1795994173779738631
+    },
+    {
+      "key": "OL1663991A",
+      "name": "Baker, A. A.",
+      "top_subjects": [
+        "Metal bonding",
+        "Materials",
+        "Maintenance and repair",
+        "Composite materials",
+        "Airplanes",
+        "Airframes",
+        "United States",
+        "Stratigraphic Geology",
+        "Storage",
+        "Silos"
+      ],
+      "top_work": "The changing pattern of care in psychiatry",
+      "type": "author",
+      "work_count": 28,
+      "_version_": 1795994297399508998
+    },
+    {
+      "key": "OL1796463A",
+      "name": "A. A. Khan",
+      "top_subjects": [
+        "Pakistan",
+        "Labor laws and legislation",
+        "Bangladesh",
+        "SCIENCE",
+        "Politics and government",
+        "Mohammad Ayub Khan (1907-1974)",
+        "Microbiology",
+        "Life Sciences",
+        "History",
+        "G\u00e9omicrobiologie"
+      ],
+      "top_work": "Geomicrobiology",
+      "type": "author",
+      "work_count": 21,
+      "_version_": 1795994740077887493
+    },
+    {
+      "birth_date": "1903",
+      "death_date": "1976",
+      "key": "OL1645294A",
+      "name": "A. A. Grechko",
+      "top_subjects": [
+        "World War, 1939-1945",
+        "Soviet Union",
+        "History",
+        "Campaigns",
+        "Armed Forces",
+        "1939-1945",
+        "Russian Personal narratives",
+        "Caucasus",
+        "World War (1939-1945) fast (OCoLC)fst01180924",
+        "Soviet Personal narratives"
+      ],
+      "top_work": "Osvoboditel\u02b9nai\ufe20a\ufe21 missii\ufe20a\ufe21 Sovetskikh Vooruzhennykh Sil vo vtoro\u012d mirovo\u012d vo\u012dne",
+      "type": "author",
+      "work_count": 32,
+      "_version_": 1795994253078298625
+    },
+    {
+      "key": "OL1685527A",
+      "name": "A. A. Amvrosov",
+      "top_subjects": [
+        "Social conditions",
+        "Soviet Union",
+        "Social classes",
+        "Working class",
+        "Social policy",
+        "Eastern Europe",
+        "Communism and society",
+        "Communism",
+        "Russia",
+        "Economic policy"
+      ],
+      "top_work": "Ot klassovo\u012d different\ufe20s\ufe21i\ufe20a\ufe21t\ufe20s\ufe21ii k sot\ufe20s\ufe21ial\u02b9no\u012d odnorodnosti obshchestva",
+      "type": "author",
+      "work_count": 26,
+      "_version_": 1795994677658255362
+    },
+    {
+      "key": "OL1686337A",
+      "name": "A. A. Aksenov",
+      "top_subjects": [
+        "Continental shelf",
+        "Submarine geology",
+        "Stratigraphic Geology",
+        "Ore deposits",
+        "Oceanography",
+        "Underwater exploration",
+        "Tropics",
+        "Submarine topography",
+        "Oceania",
+        "Marine biology"
+      ],
+      "top_work": "Iron in Aluminium Alloys",
+      "type": "author",
+      "work_count": 29,
+      "_version_": 1795994903690346505
+    },
+    {
+      "birth_date": "1874",
+      "death_date": "1948",
+      "key": "OL17612A",
+      "name": "A. A. Brill",
+      "top_subjects": [
+        "Psychoanalysis",
+        "Sigmund Freud (1856-1939)",
+        "Neuroses",
+        "Dreams",
+        "Neurotic Disorders",
+        "Pathological Psychology",
+        "United States",
+        "Translations",
+        "Societies",
+        "Smith Ely Jelliffe (1866-1945)"
+      ],
+      "top_work": "Freud's contribution to psychiatry",
+      "type": "author",
+      "work_count": 60,
+      "_version_": 1795995352846827523
+    },
+    {
+      "key": "OL1827965A",
+      "name": "A. A. Fitch",
+      "top_subjects": [
+        "Geology",
+        "Geophysics",
+        "California",
+        "Seismic refraction method",
+        "Seismic reflection method",
+        "Seismic prospecting",
+        "Prospecting - Geophysical methods",
+        "Prospecting",
+        "Mokelumne River",
+        "Geophysical methods"
+      ],
+      "top_work": "Developments in geophysical exploration methods",
+      "type": "author",
+      "work_count": 30,
+      "_version_": 1795995648384827402
+    },
+    {
+      "birth_date": "1833",
+      "key": "OL2409550A",
+      "name": "A. A. Nobile",
+      "top_subjects": [
+        "Urbano Rattazzi (1808-1873)",
+        "Alessandro Manzoni (1785-1873)",
+        "Italy",
+        "Italians",
+        "Italian poetry",
+        "History",
+        "French poetry",
+        "Translations into English",
+        "Rome",
+        "Romans canadiens-italien, ICMH"
+      ],
+      "top_work": "Miscellaneous poems translated into English prose",
+      "type": "author",
+      "work_count": 25,
+      "_version_": 1796005248706281477
+    },
+    {
+      "birth_date": "1811",
+      "death_date": "1874",
+      "key": "OL2504402A",
+      "name": "A. A. Paton",
+      "top_subjects": [
+        "Description and travel",
+        "Dalmatia (Croatia)",
+        "Adriatic Sea",
+        "Syria",
+        "Styria (Austria)",
+        "Stendhal (1783-1842)",
+        "Social life and customs",
+        "History",
+        "Egypt",
+        "Croatia"
+      ],
+      "top_work": "A history of the Egyptian revolution, from the period of the Mamelukes to the death of Mohammed Ali",
+      "type": "author",
+      "work_count": 23,
+      "_version_": 1796005249721303050
+    },
+    {
+      "birth_date": "1866",
+      "death_date": "1960",
+      "key": "OL2390276A",
+      "name": "A. A. Berle",
+      "top_subjects": [
+        "Education",
+        "Teaching",
+        "Social problems",
+        "Sermons",
+        "Restoration",
+        "Jews",
+        "Fourth of July orations",
+        "Congregational churches",
+        "Coal Miners' Strike, Colorado, 1913-1914",
+        "Church and the world"
+      ],
+      "top_work": "Christianity and the social rage",
+      "type": "author",
+      "work_count": 23,
+      "_version_": 1796005416450129928
+    },
+    {
+      "key": "OL2479072A",
+      "name": "A. A. Shumkov",
+      "top_subjects": [
+        "Genealogy",
+        "Russia (Federation)",
+        "Nobility",
+        "Biography",
+        "Saint Petersburg (Russia)",
+        "Saint Petersburg",
+        "History",
+        "Don River Region (Russia)",
+        "Dictionaries",
+        "Zimni\u012d dvoret\ufe20s\ufe21 (Saint Petersburg, Russia)"
+      ],
+      "top_work": "Sankt-Peterburgskai\ufe20a\ufe21 dvori\ufe20a\ufe21nskai\ufe20a\ufe21 rodoslovnai\ufe20a\ufe21 kniga",
+      "type": "author",
+      "work_count": 23,
+      "_version_": 1796006080455639044
+    },
+    {
+      "birth_date": "1798",
+      "death_date": "1831",
+      "key": "OL267973A",
+      "name": "Del\u02b9vig, A. A.",
+      "top_work": "Polnoe sobranie stikhotvorenii\u0306",
+      "type": "author",
+      "work_count": 23,
+      "_version_": 1796006530029453321
+    },
+    {
+      "key": "OL2709968A",
+      "name": "A. A. Samarskii",
+      "top_subjects": [
+        "Mathematics",
+        "Science/Mathematics",
+        "Differential equations",
+        "Transmission",
+        "Technology / Engineering / Mechanical",
+        "Technology & Industrial Arts",
+        "Solutions num\u00e9riques",
+        "Science : Mechanics - Dynamics - Thermodynamics",
+        "Science / Thermodynamics",
+        "Science"
+      ],
+      "top_work": "Computational heat transfer",
+      "type": "author",
+      "work_count": 22,
+      "_version_": 1796006595937697803
+    },
+    {
+      "key": "OL274869A",
+      "name": "A. A. Sergeev",
+      "top_subjects": [
+        "Economic policy",
+        "Space medicine",
+        "Marxian economics",
+        "Industrial management",
+        "Bibliography",
+        "Acceleration (Physiology)",
+        "Soviet Union",
+        "Socialism",
+        "Russia (Federation)",
+        "Research"
+      ],
+      "top_work": "Khozi\ufe20a\ufe21\u012dstvenny\u012d mekhanizm i uskorenie sot\ufe20s\ufe21ial\u02b9no-\u0117konomicheskogo razvitii\ufe20a\ufe21",
+      "type": "author",
+      "work_count": 24,
+      "_version_": 1796006698151837703
+    },
+    {
+      "key": "OL1360593A",
+      "name": "A. A. Vasil\u02b9ev",
+      "top_subjects": [
+        "History",
+        "Russia",
+        "Russia (Federation)",
+        "Philosophy",
+        "Law",
+        "Sources",
+        "Sakha",
+        "Napoleonic Wars, 1800-1815",
+        "Diamond mines and mining",
+        "Conservatism"
+      ],
+      "top_work": "Evrazi\u012dskai\ufe20a\ufe21 integrat\ufe20s\ufe21ii\ufe20a\ufe21",
+      "type": "author",
+      "work_count": 52,
+      "_version_": 1795988778732486670
+    },
+    {
+      "key": "OL1362523A",
+      "name": "A. A. Strizhenko",
+      "top_subjects": [
+        "Semantics",
+        "Style",
+        "Modern Languages",
+        "Congresses",
+        "Comparative and general Grammar",
+        "Communication",
+        "Syntax",
+        "Russia (Federation)",
+        "Press and propaganda",
+        "Pragmatics"
+      ],
+      "top_work": "Semantiko-stilisticheskie aspekty funkt\ufe20s\ufe21ionirovanii\ufe20a\ufe21 i\ufe20a\ufe21zykovykh edinit\ufe20s\ufe21",
+      "type": "author",
+      "work_count": 20,
+      "_version_": 1795989023848660995
+    },
+    {
+      "birth_date": "1959",
+      "key": "OL1489054A",
+      "name": "A. A. Abrashkin",
+      "top_subjects": [
+        "History",
+        "Slavic Mythology",
+        "Kievan Rus",
+        "Civilization",
+        "Trojan War",
+        "To 146 B.C.",
+        "Russia",
+        "Origin",
+        "Mediterranean Region",
+        "Greece"
+      ],
+      "top_work": "Russki\u012d D\u02b9i\ufe20a\ufe21vol",
+      "type": "author",
+      "work_count": 20,
+      "_version_": 1795989927893139476
+    },
+    {
+      "alternate_names": [
+        "A.A. Gill",
+        "A.A. GILL",
+        "A.A GILL",
+        "Gill, A.A"
+      ],
+      "birth_date": "1954",
+      "key": "OL1435218A",
+      "name": "A. A. Gill",
       "top_subjects": [
         "Travel",
-        "Photography"
+        "Voyages and travels",
+        "Social life and customs",
+        "New York Times reviewed",
+        "Journalists",
+        "Great Britain",
+        "Fiction",
+        "Cooking",
+        "A. A. Gill (1954-2016)",
+        "A. A. Gill (1954-)"
       ],
-      "top_work": "Discover Pella",
+      "top_work": "The Angry Island: Hunting the English",
       "type": "author",
-      "work_count": 2,
-      "_version_": 1795980233361326089
+      "work_count": 48,
+      "_version_": 1795990319403106317
     },
     {
-      "key": "OL13452731A",
-      "name": "Bradly Payne",
-      "top_work": "Keto Desserts Cookbook for Beginners",
-      "type": "author",
-      "work_count": 2,
-      "_version_": 1795987103331385350
-    },
-    {
-      "key": "OL13041744A",
-      "name": "Bradly Redel",
-      "top_work": "Essential Video Poker Tips You Need to Know : a Practical Guide to Level up Your Game and Have Fun",
-      "type": "author",
-      "work_count": 2,
-      "_version_": 1795981823195480077
-    },
-    {
-      "key": "OL13060452A",
-      "name": "Scot Bradly",
-      "top_work": "Fruit Picture Book for Children",
-      "type": "author",
-      "work_count": 2,
-      "_version_": 1795982090536222733
-    },
-    {
-      "key": "OL13061619A",
-      "name": "Bradly Boser",
-      "top_work": "Learning CSS in a Visual Guide : a Valuable Resource for Those Starting with CSS",
-      "type": "author",
-      "work_count": 2,
-      "_version_": 1795982324460945421
-    },
-    {
-      "key": "OL13233685A",
-      "name": "Bradly Williams",
-      "top_work": "Love Redefined",
-      "type": "author",
-      "work_count": 2,
-      "_version_": 1795984203628675083
-    },
-    {
-      "key": "OL13037980A",
-      "name": "Bradly Osmond",
-      "top_work": "Goodbye Fear : Step into the Mindset to Overcome Your Fears",
-      "type": "author",
-      "work_count": 2,
-      "_version_": 1795980870377537543
-    },
-    {
-      "key": "OL13065390A",
-      "name": "Bradly Bermeo",
-      "top_work": "World War II in the Air : Pilot's Memoirs of Real and Ridiculously Dangerous Flying",
-      "type": "author",
-      "work_count": 2,
-      "_version_": 1795980902580355081
-    },
-    {
-      "key": "OL12983464A",
-      "name": "Bradly Grussing",
-      "top_work": "Mandy's Adventure : Fighting to Overcome Anxiety Issue",
-      "type": "author",
-      "work_count": 2,
-      "_version_": 1795980945821532177
-    },
-    {
-      "key": "OL12977412A",
-      "name": "Bradly Planagan",
-      "top_work": "Mystery of Our Civilizations : Exploring Full of Secrets on the History of Our Mankind",
-      "type": "author",
-      "work_count": 2,
-      "_version_": 1795981546398679056
-    },
-    {
-      "key": "OL13049404A",
-      "name": "Bradly Stinde",
-      "top_work": "Getting Started and Basics for Vegetarians : Healthy Eating Guidelines for Your Vegetarian Toddler",
-      "type": "author",
-      "work_count": 2,
-      "_version_": 1795981592814944262
-    },
-    {
-      "key": "OL13058667A",
-      "name": "Bradly Mulryan",
-      "top_work": "Mental Clarity and Focus : Useful Tips for Improving Your Mental Focus",
-      "type": "author",
-      "work_count": 2,
-      "_version_": 1795981616298852363
-    },
-    {
-      "key": "OL13050303A",
-      "name": "Bradly Engfer",
-      "top_work": "Herbalism Guide : How to Use Herbalism and Herbal Medicine at Home",
-      "type": "author",
-      "work_count": 2,
-      "_version_": 1795981825764491270
-    },
-    {
-      "key": "OL13024117A",
-      "name": "Bradly Hairston",
-      "top_work": "How to Find Solace and Wisdom to Thyself? : 45 Evening Prayers to Help",
-      "type": "author",
-      "work_count": 2,
-      "_version_": 1795981992261582859
-    },
-    {
-      "key": "OL13052294A",
-      "name": "Bradly Airth",
-      "top_work": "Adventure in the Coffee World : All about History and Legend of Coffee Bean",
-      "type": "author",
-      "work_count": 2,
-      "_version_": 1795982297450676228
-    },
-    {
-      "key": "OL13018611A",
-      "name": "Tommy Bradly",
-      "top_work": "50 Music Production Prompts",
-      "type": "author",
-      "work_count": 2,
-      "_version_": 1795980577227145228
-    },
-    {
-      "key": "OL12974456A",
-      "name": "Bradly Mccarroll",
-      "top_work": "Building a Caring Heart for You : How to Have a Successful Relationship",
-      "type": "author",
-      "work_count": 2,
-      "_version_": 1795980819185008656
-    },
-    {
-      "key": "OL12433919A",
-      "name": "Bradly Brandau",
-      "top_work": "Canva Tutorial for Beginners : How to Use Canva",
-      "type": "author",
-      "work_count": 2,
-      "_version_": 1795971984462446594
-    },
-    {
-      "key": "OL12391029A",
-      "name": "Bradly Brackenbury",
-      "top_work": "Twisted Roots",
-      "type": "author",
-      "work_count": 2,
-      "_version_": 1795972676347494408
-    },
-    {
-      "key": "OL11178168A",
-      "name": "Bradly Cox",
-      "top_work": "Roma - Livro para Colorir Adulto",
-      "type": "author",
-      "work_count": 2,
-      "_version_": 1795952799358386182
-    },
-    {
-      "key": "OL11281494A",
-      "name": "Bradly Domeier",
-      "top_work": "Healing the Wounds : Understanding Life-Altering Effects of Sexual Abuse and Overcoming Them",
-      "type": "author",
-      "work_count": 2,
-      "_version_": 1795954260884586505
-    },
-    {
-      "key": "OL3343290A",
-      "name": "Bradly Reed",
+      "key": "OL1839033A",
+      "name": "Bogdanov, A. A.",
       "top_subjects": [
-        "Politics and government",
         "History",
-        "County officials and employees",
-        "China, politics and government"
+        "World War, 1939-1945",
+        "Soviet Union",
+        "Russia (Federation)",
+        "Russia",
+        "Soviet Union",
+        "Saint Petersburg",
+        "Paper money",
+        "Gosudarstvennoe proizvodstvennoe ob\u02baedinenie proizvodstva gosudarstvennykh znakov (Russia)",
+        "Soviet Union. Glavnoe upravlenie Goznak"
       ],
-      "top_work": "Talons and Teeth",
+      "top_work": "Den\u02b9gi, kotorykh ne bylo",
       "type": "author",
-      "work_count": 2,
-      "_version_": 1796015700741980166
+      "work_count": 31,
+      "_version_": 1795996165930483717
     },
     {
-      "key": "OL2994253A",
-      "name": "Bradly Stott",
-      "top_work": "Mindless Ramblings of a Theoretcial Madman",
-      "type": "author",
-      "work_count": 2,
-      "_version_": 1796012081895440387
-    },
-    {
-      "key": "OL5424990A",
-      "name": "Ramona Bradly",
+      "key": "OL1990627A",
+      "name": "A. A. Aseev",
       "top_subjects": [
-        "Fiction, general"
+        "Soviet Union",
+        "Geomorphology",
+        "Russia (Federation)",
+        "Geology",
+        "Submarine topography",
+        "Stratigraphic Geology",
+        "Plains",
+        "Physical geography",
+        "Particles (Nuclear physics)",
+        "Paleogeography"
       ],
-      "top_work": "Hot Arctic nights",
+      "top_work": "Ugolovnai\ufe20a\ufe21 otvetstvennost\u02b9 za moshennichestvo",
       "type": "author",
-      "work_count": 2,
-      "_version_": 1796044567021092867
+      "work_count": 25,
+      "_version_": 1795996904270594053
     },
     {
-      "key": "OL7825282A",
-      "name": "Edward Bradly",
-      "top_work": "Dissertatio medica inauguralis, de discrimine quod scarlatinam inter et cynanchen malignam intercedit",
-      "type": "author",
-      "work_count": 2,
-      "_version_": 1796079069482188806
-    },
-    {
-      "key": "OL2853598A",
-      "name": "Richard Bradly",
-      "top_work": "Simply Bradley",
-      "type": "author",
-      "work_count": 2,
-      "_version_": 1796010513813995534
-    },
-    {
-      "key": "OL3497530A",
-      "name": "Ramona Bradly",
+      "key": "OL200242A",
+      "name": "A. A. Selivanov",
       "top_subjects": [
-        "Fiction, general"
+        "Ukraine",
+        "Constitutional law",
+        "Ukraine. Konstytut\ufe20s\ufe21i\u012dny\u012d Sud",
+        "Ukraine",
+        "Constitutional courts",
+        "Youth",
+        "Technology and state",
+        "Soviets (Councils)",
+        "Soviet Union",
+        "Science and state"
       ],
-      "top_work": "Hot Arctic Nights",
+      "top_work": "Mestnye Sovety i molodezh'",
       "type": "author",
-      "work_count": 2,
-      "_version_": 1796018388675330051
+      "work_count": 21,
+      "_version_": 1795997435702542340
     },
     {
-      "key": "OL9862423A",
-      "name": "Bradly Hughes",
-      "top_work": "Under the Nylon",
-      "type": "author",
-      "work_count": 2,
-      "_version_": 1796106769717526530
-    },
-    {
-      "key": "OL1454569A",
-      "name": "Bradly K. Fawcett",
+      "key": "OL200243A",
+      "name": "A. A. Chernyshev",
       "top_subjects": [
-        "Zilog z8000 (microprocessor)",
-        "Zilog Z8000 (Microprocessor)",
-        "Logic design",
-        "Electronic digital computers",
-        "Circuits"
-      ],
-      "top_work": "The Z8000 microprocessor",
-      "type": "author",
-      "work_count": 2,
-      "_version_": 1795990566648938499
-    },
-    {
-      "key": "OL1756104A",
-      "name": "Bradly J. Edgerton",
-      "top_subjects": [
-        "Speech discrimination tests",
-        "Speech Audiometry",
-        "Intelligibility of Speech",
-        "Hearing disorders",
-        "Acoustic stimulation",
-        "Acoustic Stimulation"
-      ],
-      "top_work": "Clinical implications of speech discrimination testing using nonsense stimuli",
-      "type": "author",
-      "work_count": 2,
-      "_version_": 1795996262554664968
-    },
-    {
-      "key": "OL10690984A",
-      "name": "Bradly J. Gotto",
-      "top_work": "Spending Money and Having Fun",
-      "type": "author",
-      "work_count": 2,
-      "_version_": 1795946117457772551
-    },
-    {
-      "birth_date": "1956",
-      "key": "OL11660243A",
-      "name": "Bradly Ward Reed",
-      "top_subjects": [
-        "Politics and government",
+        "Russia",
         "History",
-        "County officials and employees",
-        "China",
-        "1644-1912"
+        "Soviet Union",
+        "Russia. Voenny\u012d flot",
+        "Russia (Federation)",
+        "Russia",
+        "S. Na\u012ddenov (1869-1922)",
+        "Naval History",
+        "Cruisers (Warships)",
+        "20th century"
       ],
-      "top_work": "Zhao ya",
+      "top_work": "Put\u02b9 dramaturga",
       "type": "author",
-      "work_count": 2,
-      "_version_": 1795962009627394051
+      "work_count": 32,
+      "_version_": 1795997435703590916
     },
     {
-      "key": "OL12377376A",
-      "name": "Bradly A. Trumbo",
-      "top_work": "Wingshooting the Palouse",
-      "type": "author",
-      "work_count": 2,
-      "_version_": 1795971444051542020
-    },
-    {
-      "key": "OL12431805A",
-      "name": "Bradly W. Reed",
-      "top_work": "Talons and Teeth",
-      "type": "author",
-      "work_count": 2,
-      "_version_": 1795971498918281227
-    },
-    {
-      "birth_date": "1958",
-      "key": "OL9309966A",
-      "name": "Bradly Frank Hughes",
+      "key": "OL1864520A",
+      "name": "A. A. Sveshnikov",
       "top_subjects": [
-        "Smokejumping",
-        "Smokejumpers",
-        "Bradly Frank Hughes (1958-)",
-        "Biography"
+        "Stochastic processes",
+        "Probabilities",
+        "Problems, exercises",
+        "World War, 1939-1945",
+        "Campaigns",
+        "Waarschijnlijkheidstheorie",
+        "Statistique math\u00e9matique",
+        "Statistiek",
+        "Soviet Union",
+        "Soviet Personal narratives"
       ],
-      "top_work": "Under the nylon",
+      "top_work": "Problems in probability theory, mathematical statistics, and theory of random functions",
       "type": "author",
-      "work_count": 2,
-      "_version_": 1796099759580119040
+      "work_count": 27,
+      "_version_": 1795997868062932994
     },
     {
-      "key": "OL5966338A",
-      "name": "Bradly A. Thayer",
+      "birth_date": "1862",
+      "death_date": "1925",
+      "key": "OL1967028A",
+      "name": "A. A. Kornilov",
+      "top_subjects": [
+        "Russia",
+        "History",
+        "Soviet Union",
+        "1801-1917",
+        "Social conditions",
+        "Peasantry",
+        "19th century",
+        "Poland",
+        "Peasants",
+        "Politics and government"
+      ],
+      "top_work": "Modern Russian history",
+      "type": "author",
+      "work_count": 71,
+      "_version_": 1795998111198347271
+    },
+    {
+      "key": "OL1986271A",
+      "name": "A. A. Bulgakov",
+      "top_subjects": [
+        "Servomechanisms",
+        "Soviet Union",
+        "Electronic control",
+        "Electrical engineers",
+        "Electric current rectifiers",
+        "Electric current converters",
+        "Discrete-time systems",
+        "Biography",
+        "Bicycle touring",
+        "Automatic control"
+      ],
+      "top_work": "Energetic processes in follow-up electrical control systems",
+      "type": "author",
+      "work_count": 21,
+      "_version_": 1795998119539769350
+    },
+    {
+      "birth_date": "1894",
+      "death_date": "1968",
+      "key": "OL1931484A",
+      "name": "A. A. Thomson",
+      "top_subjects": [
+        "Biography",
+        "Cricket",
+        "Wit and humor",
+        "History and criticism",
+        "Cricket players",
+        "Yorkshire (England)",
+        "Yorkshire",
+        "Wilfred Rhodes (1877-1973)",
+        "Wilfred Rhodes",
+        "W. G. Grace (1848-1915)"
+      ],
+      "top_work": "Hirst and Rhodes",
+      "type": "author",
+      "work_count": 33,
+      "_version_": 1795998261144715273
+    },
+    {
+      "alternate_names": [
+        "A.A. Attanasio",
+        "Adam Lee",
+        "A A Attanasio",
+        "A. A Attanasio"
+      ],
+      "birth_date": "1951",
+      "key": "OL19786A",
+      "name": "A. A. Attanasio",
+      "top_subjects": [
+        "Fiction",
+        "Fiction, science fiction, general",
+        "Arthurian romances, adaptations",
+        "Arthurian romances",
+        "Arthur, king, fiction",
+        "Adaptations",
+        "Fiction, general",
+        "Fiction, fantasy, historical",
+        "Fiction, fantasy, epic",
+        "Science fiction"
+      ],
+      "top_work": "Radix",
+      "type": "author",
+      "work_count": 145,
+      "_version_": 1795998605939572739
+    },
+    {
+      "birth_date": "1814",
+      "death_date": "1895",
+      "key": "OL2351614A",
+      "name": "A. A. Miner",
+      "top_subjects": [
+        "Sermons",
+        "American Sermons",
+        "Universalists",
+        "Universalism",
+        "United States",
+        "Thomas Barrows",
+        "Sunday schools",
+        "Somerville",
+        "Ruth Ballou",
+        "Question books"
+      ],
+      "top_work": "The old forts taken",
+      "type": "author",
+      "work_count": 32,
+      "_version_": 1796003156569620487
+    },
+    {
+      "key": "OL14292A",
+      "name": "A. A. Abrikosov",
+      "top_subjects": [
+        "Metals",
+        "Superconductivity",
+        "Quantum statistics",
+        "Quantum field theory",
+        "Low temperature research",
+        "Free electron theory of metals",
+        "Superconductors",
+        "Statistique quantique",
+        "Qc174.4 .a213 1975",
+        "Popular works"
+      ],
+      "top_work": "Methods of quantum field theory in statistical physics",
+      "type": "author",
+      "work_count": 25,
+      "_version_": 1795991174940459009
+    },
+    {
+      "birth_date": "1922",
+      "key": "OL158186A",
+      "name": "A. A. Hanson",
       "top_subjects": [
         "United States",
+        "Grasses",
+        "Varieties",
+        "Lawns",
+        "Handbooks, manuals",
+        "Breeding",
+        "Alfalfa",
+        "Agriculture, united states",
+        "Agriculture, handbooks, manuals, etc.",
+        "Agriculture"
+      ],
+      "top_work": "Alfalfa Science & Technology",
+      "type": "author",
+      "work_count": 22,
+      "_version_": 1795992109912686594
+    },
+    {
+      "key": "OL1040189A",
+      "name": "A. A. Svanidze",
+      "top_subjects": [
+        "History",
+        "Europe",
+        "Medieval Cities and towns",
+        "Sweden",
+        "Medieval Civilization",
+        "Feudalism",
+        "Civilization",
+        "Medieval, 500-1500",
+        "Historians",
+        "Congresses"
+      ],
+      "top_work": "Vtorai\ufe20a\ufe21 muza istorika",
+      "type": "author",
+      "work_count": 43,
+      "_version_": 1795940136069890057
+    },
+    {
+      "key": "OL10347308A",
+      "name": "A. A. Milne",
+      "top_subjects": [
+        "Children's fiction",
+        "Family",
+        "English literature",
+        "Toys, fiction",
+        "Poetry (poetic works by one author)",
+        "Fiction, mystery & detective, general",
+        "Fiction, general",
+        "England, fiction",
+        "Winnie-the-pooh (fictitious character), fiction",
+        "Toy and movable books"
+      ],
+      "top_work": "Once upon a time",
+      "type": "author",
+      "work_count": 417,
+      "_version_": 1795940274704220173
+    },
+    {
+      "key": "OL1038885A",
+      "name": "A. A. Sokolov",
+      "top_subjects": [
+        "Quantum electrodynamics",
+        "Quantum theory",
         "Politics and government",
-        "Middle East",
+        "Particles (Nuclear physics)",
+        "Electrons",
+        "World politics",
+        "V. A. Uryvaev",
+        "United States",
+        "Trade and manufacture",
+        "Synchrotrons"
+      ],
+      "top_work": "Elementary particles",
+      "type": "author",
+      "work_count": 50,
+      "_version_": 1795941489139777548
+    },
+    {
+      "key": "OL1050629A",
+      "name": "A. A. Nedeshev",
+      "top_subjects": [
+        "Economic conditions",
+        "Russia (Federation)",
+        "Natural resources",
+        "Industries",
+        "Chitinskai\ufe20a\ufe21 oblast\u02b9 (Russia)",
+        "Udokan Range Region (Russia)",
+        "Udokan Range Region",
+        "Transbaikalia",
+        "Territorial production complexes",
+        "Research"
+      ],
+      "top_work": "Problemy kompleksnogo razvitii\ufe20a\ufe21 khozi\ufe20a\ufe21\u012dstva oblasti",
+      "type": "author",
+      "work_count": 26,
+      "_version_": 1795943237524914189
+    },
+    {
+      "key": "OL1051050A",
+      "name": "A. A. Sarkisov",
+      "top_subjects": [
+        "Nuclear submarines",
+        "Russia (Federation)",
+        "Congresses",
+        "World War, 1939-1945",
+        "Soviet Personal narratives",
+        "Russia",
+        "Nuclear reactors",
+        "Nuclear power plants",
+        "Biography",
+        "Admirals"
+      ],
+      "top_work": "Vospominanii\ufe20a\ufe21, vstrechi, razmyshlenii\ufe20a\ufe21, situat\ufe20s\ufe21ii",
+      "type": "author",
+      "work_count": 24,
+      "_version_": 1795944383788351494
+    },
+    {
+      "key": "OL10751847A",
+      "name": "A. A. Kay",
+      "top_work": "Made into a Dog",
+      "type": "author",
+      "work_count": 90,
+      "_version_": 1795945491046858755
+    },
+    {
+      "key": "OL1071567A",
+      "name": "A. A. Harms",
+      "top_subjects": [
+        "Nuclear physics",
+        "Nuclear engineering",
+        "Engineering",
+        "Science/Mathematics",
+        "Science",
+        "Radiography",
+        "Physics",
+        "Nuclear fusion",
+        "Nuclear energy",
+        "Nuclear Physics"
+      ],
+      "top_work": "Principles of fusion energy",
+      "type": "author",
+      "work_count": 24,
+      "_version_": 1795945422039023625
+    },
+    {
+      "birth_date": "1946",
+      "key": "OL1183459A",
+      "name": "A. A. Vigasin",
+      "top_subjects": [
+        "India",
+        "History",
+        "Civilization",
+        "Sources",
+        "Asia",
+        "To 1200",
+        "Study and teaching",
+        "Russia",
+        "Historiography",
         "Foreign relations"
       ],
-      "top_work": "The Pax Americana and the Middle east",
+      "top_work": "Po\u0117tika, istorii\ufe20a\ufe21 literatury, lingvistika",
       "type": "author",
-      "work_count": 2,
-      "_version_": 1796053168301277191
+      "work_count": 29,
+      "_version_": 1795962550090727424
     },
     {
-      "key": "OL8109810A",
-      "name": "Bradly A. Pendergraft",
+      "key": "OL1276820A",
+      "name": "A. A. Ivin",
       "top_subjects": [
-        "Trails",
-        "Hiking",
-        "Guidebooks"
+        "History",
+        "Logic",
+        "Russian",
+        "Philosophy",
+        "Modality (Logic)",
+        "Dictionaries",
+        "20th century",
+        "Sociology",
+        "Social sciences",
+        "Science"
       ],
-      "top_work": "Western Trails",
+      "top_work": "Iz teni v svet pereletai\ufe20a\ufe21 ...",
       "type": "author",
-      "work_count": 2,
-      "_version_": 1796085152981450758
+      "work_count": 22,
+      "_version_": 1795977770025615361
     },
     {
-      "key": "OL11422142A",
-      "name": "Tracie and Bradly Harang",
-      "top_work": "Sitka Tango",
-      "type": "author",
-      "work_count": 2,
-      "_version_": 1795955210926948356
-    },
-    {
-      "key": "OL10468357A",
-      "name": "C. O. X. BRADLY",
-      "top_work": "Sashiko",
-      "type": "author",
-      "work_count": 2,
-      "_version_": 1795940946595020801
-    },
-    {
-      "key": "OL8108179A",
-      "name": "Emily Tennyson Bradly Smith",
+      "birth_date": "1899",
+      "key": "OL12842571A",
+      "name": "A. A. Nichiporovich",
       "top_subjects": [
-        "Westminster Abbey"
+        "Photosynthesis",
+        "Plants",
+        "Plant physiology",
+        "Solar radiation",
+        "Solar energy",
+        "Respiration",
+        "Natural resources",
+        "Influence on nature",
+        "Human beings",
+        "Growth (Plants)"
       ],
-      "top_work": "Westminster abbey",
+      "top_work": "Teoreticheskie osnovy povyshenii\ufe20a\ufe21 produktivnosti rasteni\u012d",
       "type": "author",
-      "work_count": 2,
-      "_version_": 1796084662773219334
+      "work_count": 20,
+      "_version_": 1795977921549041670
     },
     {
-      "key": "OL7746420A",
-      "name": "M.D., Bradly Jay Keller",
-      "top_work": "The Still Point",
+      "key": "OL1283132A",
+      "name": "A. A. Elistratova",
+      "top_subjects": [
+        "History and criticism",
+        "19th century",
+        "Nikola\u012d Vasil\u02b9evich Gogol\u02b9 (1809-1852)",
+        "William Blake (1757-1827)",
+        "Romanticism",
+        "Robert Burns (1759-1796)",
+        "Literature",
+        "Influence",
+        "George Gordon Byron Byron Baron (1788-1824)",
+        "Fiction"
+      ],
+      "top_work": "Nasledie anglii\u0306skogo romantizma i sovremennost'",
       "type": "author",
-      "work_count": 2,
-      "_version_": 1796080865390886920
+      "work_count": 21,
+      "_version_": 1795979837520740355
     },
     {
-      "key": "OL10368997A",
-      "name": "Bradly Condon",
+      "key": "OL1281389A",
+      "name": "A. A. Gerasimenko",
+      "top_subjects": [
+        "Mikhail I\ufe20U\ufe21r\u02b9evich Lermontov (1814-1841)",
+        "Criticism and interpretation",
+        "Russian Poets",
+        "Biography",
+        "19th century",
+        "Russian literature",
+        "History and criticism",
+        "Ukraine",
+        "Sugar",
+        "Steel industry and trade"
+      ],
+      "top_work": "Nevol\u02b9nik chesti",
       "type": "author",
-      "work_count": 0,
-      "_version_": 1795940991305252879
+      "work_count": 31,
+      "_version_": 1795979971784605707
     },
     {
-      "key": "OL9305094A",
-      "name": "Kim Bradly",
+      "birth_date": "1927",
+      "key": "OL1197512A",
+      "name": "A. A. Levinson",
+      "top_subjects": [
+        "Geochemical prospecting",
+        "Congresses",
+        "Tn270 .l54 1980",
+        "Stratigraphic Geology",
+        "Sedimentary Rocks",
+        "Sedimentary Geology",
+        "Science",
+        "Satelites Dos Planetas",
+        "Rocks, Sedimentary",
+        "Prospektion"
+      ],
+      "top_work": "Introduction to exploration geochemistry",
       "type": "author",
-      "work_count": 0,
-      "_version_": 1796100841437921286
+      "work_count": 26,
+      "_version_": 1795966334878613504
     },
     {
-      "key": "OL8379433A",
-      "name": "Bradly Johnson",
+      "birth_date": "1890",
+      "death_date": "1965",
+      "key": "OL13254469A",
+      "name": "A. A. Roback",
+      "top_subjects": [
+        "Yiddish language",
+        "Yiddish literature",
+        "Yiddish imprints",
+        "Temperament",
+        "Personality",
+        "Massachusetts",
+        "Jewish libraries",
+        "Jewish authors",
+        "History and criticism",
+        "Harvard Library. Yiddish Collection"
+      ],
+      "top_work": "Psicologia del caracter ...",
       "type": "author",
-      "work_count": 0,
-      "_version_": 1796086724884955137
+      "work_count": 20,
+      "_version_": 1795984910358413314
     },
     {
-      "key": "OL14272913A",
-      "name": "Bradly Dalton",
+      "key": "OL1330805A",
+      "name": "A. A. Kryvitski",
+      "top_subjects": [
+        "Belarusian language",
+        "Dialects",
+        "Dictionaries",
+        "Textbooks for foreign speakers",
+        "Phonetics",
+        "Glossaries, vocabularies",
+        "Belarusian",
+        "Belarus",
+        "Word formation",
+        "Turov Region"
+      ],
+      "top_work": "Fanetyka belaruska\u012d movy",
       "type": "author",
-      "work_count": 0,
-      "ratings_average": 0.0,
-      "ratings_sortable": 2.047372,
-      "ratings_count": 0,
-      "ratings_count_1": 0,
-      "ratings_count_2": 0,
-      "ratings_count_3": 0,
-      "ratings_count_4": 0,
-      "ratings_count_5": 0,
-      "want_to_read_count": 0,
-      "already_read_count": 0,
-      "currently_reading_count": 0,
-      "readinglog_count": 0,
-      "_version_": 1810551016978907138
+      "work_count": 30,
+      "_version_": 1795986739242729472
     },
     {
-      "key": "OL14349986A",
-      "name": "Bo Bradly",
+      "birth_date": "1934",
+      "key": "OL1337191A",
+      "name": "Leonov, A. A.",
+      "top_subjects": [
+        "Space flight",
+        "Astronautics",
+        "Physiological effect",
+        "Time perception",
+        "Space perception",
+        "Soviet Union",
+        "Russia (Federation)",
+        "Psychological aspects of Space flight",
+        "Psychological aspects",
+        "A. A. Leonov (1934-)"
+      ],
+      "top_work": "I\ufe20U\ufe21bile\u012dny\u012d sbornik dokladov",
       "type": "author",
-      "work_count": 0,
-      "ratings_average": 0.0,
-      "ratings_sortable": 2.047372,
-      "ratings_count": 0,
-      "ratings_count_1": 0,
-      "ratings_count_2": 0,
-      "ratings_count_3": 0,
-      "ratings_count_4": 0,
-      "ratings_count_5": 0,
-      "want_to_read_count": 0,
-      "already_read_count": 0,
-      "currently_reading_count": 0,
-      "readinglog_count": 0,
-      "_version_": 1810732022047440897
+      "work_count": 20,
+      "_version_": 1795987262209523713
     },
     {
-      "key": "OL14471905A",
-      "name": "Harley Bradly",
+      "key": "OL1274156A",
+      "name": "A. A. Morozov",
+      "top_subjects": [
+        "Mikhail Vasil\u02b9evich Lomonosov (1711-1765)",
+        "Biography",
+        "White Sea Region (Russia)",
+        "Translations into Russian",
+        "Scientists",
+        "Russian Parodies",
+        "Russia",
+        "Intellectuals",
+        "History and criticism",
+        "History"
+      ],
+      "top_work": "Nemet\ufe20s\ufe21kie volshebno-satiricheskie skazki",
       "type": "author",
-      "work_count": 0,
-      "ratings_average": 0.0,
-      "ratings_sortable": 2.047372,
-      "ratings_count": 0,
-      "ratings_count_1": 0,
-      "ratings_count_2": 0,
-      "ratings_count_3": 0,
-      "ratings_count_4": 0,
-      "ratings_count_5": 0,
-      "want_to_read_count": 0,
-      "already_read_count": 0,
-      "currently_reading_count": 0,
-      "readinglog_count": 0,
-      "_version_": 1811069414701793280
+      "work_count": 20,
+      "_version_": 1795975790575222795
     },
     {
-      "key": "OL14539580A",
-      "name": "Bradly Landrum",
+      "birth_date": "1900",
+      "key": "OL1173537A",
+      "name": "A. A. Phillips",
+      "top_subjects": [
+        "Australia",
+        "History and criticism",
+        "Australian literature",
+        "Social life and customs",
+        "Intellectual life",
+        "Civilization",
+        "Social conditions",
+        "Short stories",
+        "Modern Literature",
+        "Marriage"
+      ],
+      "top_work": "The Australian tradition",
       "type": "author",
-      "work_count": 0,
-      "ratings_average": 0.0,
-      "ratings_sortable": 2.047372,
-      "ratings_count": 0,
-      "ratings_count_1": 0,
-      "ratings_count_2": 0,
-      "ratings_count_3": 0,
-      "ratings_count_4": 0,
-      "ratings_count_5": 0,
-      "want_to_read_count": 0,
-      "already_read_count": 0,
-      "currently_reading_count": 0,
-      "readinglog_count": 0,
-      "_version_": 1811306101967159296
+      "work_count": 21,
+      "_version_": 1795960371840811013
     },
     {
-      "key": "OL14608577A",
-      "name": "Bradly Byykkonen",
+      "key": "OL1231207A",
+      "name": "A. A. Kubursi",
+      "top_subjects": [
+        "Economic conditions",
+        "Petroleum industry and trade",
+        "Israel",
+        "Economic policy",
+        "\u00c9conomie de l'environnement",
+        "Vocational education",
+        "Technical education",
+        "Sustainable development",
+        "Statistics",
+        "Southern Alberta"
+      ],
+      "top_work": "Economics and Engineering of Unpredictable Events",
       "type": "author",
-      "work_count": 0,
-      "ratings_average": 0.0,
-      "ratings_sortable": 2.047372,
-      "ratings_count": 0,
-      "ratings_count_1": 0,
-      "ratings_count_2": 0,
-      "ratings_count_3": 0,
-      "ratings_count_4": 0,
-      "ratings_count_5": 0,
-      "want_to_read_count": 0,
-      "already_read_count": 0,
-      "currently_reading_count": 0,
-      "readinglog_count": 0,
-      "_version_": 1811561388016926720
+      "work_count": 29,
+      "_version_": 1795971291367342088
     },
     {
-      "key": "OL14379778A",
-      "name": "Bradly Keller",
+      "key": "OL3243705A",
+      "name": "A. A. Gromyko",
+      "top_subjects": [
+        "Africa",
+        "Soviet Union",
+        "Politics and government",
+        "Foreign relations",
+        "World politics",
+        "Russia (Federation)",
+        "Relations",
+        "Power (Social sciences)",
+        "Politics",
+        "Nationalism"
+      ],
+      "top_work": "Uroki mirovo\u012d politiki",
       "type": "author",
-      "work_count": 0,
-      "ratings_average": 0.0,
-      "ratings_sortable": 2.047372,
-      "ratings_count": 0,
-      "ratings_count_1": 0,
-      "ratings_count_2": 0,
-      "ratings_count_3": 0,
-      "ratings_count_4": 0,
-      "ratings_count_5": 0,
-      "want_to_read_count": 0,
-      "already_read_count": 0,
-      "currently_reading_count": 0,
-      "readinglog_count": 0,
-      "_version_": 1810805169305157632
+      "work_count": 22,
+      "_version_": 1796015196084371460
     },
     {
-      "key": "OL12375533A",
-      "name": "Alfred Bradly Gough British Havelok",
-      "top_work": "Emare",
+      "key": "OL337167A",
+      "name": "A. A. Belkin",
+      "top_subjects": [
+        "Russia (Federation)",
+        "Constitutional law",
+        "Theater",
+        "Soviet Union",
+        "Law and legislation",
+        "Sources",
+        "Solonetz soils",
+        "Public law",
+        "Northern Caucasus",
+        "Local government"
+      ],
+      "top_work": "Aktual\u02b9nye voprosy stanovlenii\ufe20a\ufe21 mestnogo samoupravlenii\ufe20a\ufe21 v Rossi\u012dsko\u012d Federat\ufe20s\ufe21ii",
       "type": "author",
-      "work_count": 2,
-      "_version_": 1795970940983574534
+      "work_count": 24,
+      "_version_": 1796015762440192005
     },
     {
-      "key": "OL9914990A",
-      "name": "John R. Bradly Nur Yener",
-      "top_work": "Pecenin Arka Yuzu",
+      "key": "OL333680A",
+      "name": "A. A. Zubov",
+      "top_subjects": [
+        "Russia (Federation)",
+        "Anthropometry",
+        "Prehistoric peoples",
+        "Physical anthropology",
+        "Ethnology",
+        "Dental anthropology",
+        "Ri\ufe20a\ufe21zanskai\ufe20a\ufe21 oblast\u02b9",
+        "Prehistoric Anthropology",
+        "Personal Beauty",
+        "Human evolution"
+      ],
+      "top_work": "Sungir\u02b9",
       "type": "author",
-      "work_count": 2,
-      "_version_": 1796107934885740544
+      "work_count": 39,
+      "_version_": 1796016567334469639
     },
     {
-      "key": "OL10557509A",
-      "name": "Alfred Bradly Gough British Li Havelok",
-      "top_work": "Emare",
+      "key": "OL303079A",
+      "name": "A. A. Gugnin",
+      "top_subjects": [
+        "History and criticism",
+        "20th century",
+        "Translations into Russian",
+        "Sorbian literature",
+        "Relations",
+        "German literature",
+        "Eastern Europe",
+        "Cultural policy",
+        "Civilization",
+        "19th century"
+      ],
+      "top_work": "Slavi\ufe20a\ufe21no-germanskie issledovanii\ufe20a\ufe21",
       "type": "author",
-      "work_count": 2,
-      "_version_": 1795942409299820546
+      "work_count": 33,
+      "_version_": 1796011922737332225
     },
     {
-      "key": "OL8445368A",
-      "name": "Bradly Sergio Brandt",
+      "key": "OL300338A",
+      "name": "Isaev, A. A.",
+      "top_subjects": [
+        "Russia (Federation)",
+        "Dagestan",
+        "Sports",
+        "History",
+        "Catalogs",
+        "Youth",
+        "Study and teaching",
+        "Sports for children",
+        "Sports and state",
+        "Soviet Union"
+      ],
+      "top_work": "Klimaticheskie resursy i ikh prikladnoe ispol\u02b9zovanie",
       "type": "author",
-      "work_count": 0,
-      "_version_": 1796089208736055300
+      "work_count": 26,
+      "_version_": 1796012128284442631
     },
     {
-      "key": "OL13736059A",
-      "name": "Wheeler, Bradly Saunders,Brandi",
+      "key": "OL294979A",
+      "name": "A. A. Zhukov",
+      "top_subjects": [
+        "Swahili literature",
+        "Swahili language",
+        "Handbooks, manuals",
+        "Civilization",
+        "Cast-iron",
+        "Africa",
+        "Swahili-speaking peoples",
+        "Swahili speaking peoples",
+        "Swahili philology",
+        "Solid-state physics"
+      ],
+      "top_work": "Kul\u02b9tura, i\ufe20a\ufe21zyk i literatura suakhili",
       "type": "author",
-      "work_count": 0,
-      "_version_": 1802215434052698115
+      "work_count": 23,
+      "_version_": 1796012592240525312
+    },
+    {
+      "key": "OL3226777A",
+      "name": "A. A. Villaeys",
+      "top_subjects": [
+        "Spectrum analysis",
+        "Photons",
+        "Photochemistry",
+        "Molecular spectra",
+        "Laser spectroscopy",
+        "Spectroscopy & Spectrum Analysis",
+        "Science/Mathematics",
+        "Science",
+        "Optics (light)",
+        "Multiprocessors"
+      ],
+      "top_work": "Advances in Multi-Photon Processes and Spectroscopy",
+      "type": "author",
+      "work_count": 53,
+      "_version_": 1796013361683496960
+    },
+    {
+      "key": "OL319997A",
+      "name": "A. A. Kuratov",
+      "top_subjects": [
+        "History",
+        "Northern Russia",
+        "Arkhangel\u02b9skai\ufe20a\ufe21 oblast\u02b9 (Russia)",
+        "Sources",
+        "Russia (Federation)",
+        "Pulse height analyzers",
+        "Weights and measures",
+        "Transportation",
+        "Time",
+        "Russkai\ufe20a\ufe21 pravoslavnai\ufe20a\ufe21 t\ufe20s\ufe21erkov\u02b9"
+      ],
+      "top_work": "Russki\u012d Sever i Rossii\ufe20a\ufe21 v gody Krymsko\u012d vo\u012dny, 1853-1856 gg",
+      "type": "author",
+      "work_count": 26,
+      "_version_": 1796013746909347846
     }
   ]
 }
