@@ -1,7 +1,7 @@
 import json
 
 import requests
-from flask import Flask, redirect, render_template
+from flask import Flask, redirect, render_template, request
 
 # TODO: Read Public List of Authors From Api
 # TODO: Select From List of Authors With Searchable Table With Paging
@@ -15,22 +15,14 @@ works_limit = None
 works_offset = None
 author_works_params = {"limit": works_limit, "offset": works_offset}
 
-# test_response = requests.get(url=author_search_endpoint, params=author_search_params)
-# test_response.raise_for_status()
-# test_data = test_response.json()
-# test_json = json.dumps(test_data, indent=2)
-# print(test_data["numFound"])
-#
-# with open("test.json", "w") as outfile:
-#     outfile.write(test_json)
-
 with open("test.json", "r") as test_file:
     test_data = json.load(test_file)
 
 test_data_author_list = test_data["docs"]
 
 
-def search_authors(author_name):
+def get_openl_authors(author_name):
+    author_name = author_name
     author_search_endpoint = "https://openlibrary.org/search/authors.json"
     author_search_params = {"q": author_name}
     response = requests.get(url=author_search_endpoint, params=author_search_params)
@@ -39,7 +31,7 @@ def search_authors(author_name):
     return data["docs"]
 
 
-def get_list_of_author_dicts(author_list_data):
+def author_json_to_list_of_dicts(author_list_data, items_per_page):
     author_list = []
 
     for author_item in author_list_data:
@@ -51,31 +43,54 @@ def get_list_of_author_dicts(author_list_data):
         author_list.append(author_data)
 
     author_list = [
-        author_list[10 * i : 10 * (i + 1)] for i in range(len(author_list) // 10 + 1)
+        author_list[items_per_page * i : items_per_page * (i + 1)]
+        for i in range(len(author_list) // items_per_page + 1)
     ]
     return author_list
 
+
+items_per_page = 20
+authors = author_json_to_list_of_dicts(test_data_author_list, items_per_page)
+page = 0
 
 app = Flask(__name__)
 
 
 @app.route("/")
 def home():
-    return redirect("/author_search/a/0")
+    return redirect("/author_search")
 
 
-@app.route("/author_search/<author_name>/<int:page>", methods=["GET", "POST"])
-def author_search(author_name, page):
+@app.route("/author_search")
+def author_search():
+    global authors, page
     return render_template(
-        "author_search.html",
-        authors=get_list_of_author_dicts(search_authors(author_name)),
-        page=page,
+        "author_search.html", authors=authors[page], page=page, list_length=len(authors)
     )
 
 
-@app.route("/search_author")
+@app.route("/next_page")
+def next_page():
+    global page
+    page += 1
+    return redirect("author_search")
+
+
+@app.route("/prev_page")
+def prev_page():
+    global page
+    page -= 1
+    return redirect("author_search")
+
+
+@app.route("/author_search", methods=["POST"])
 def search_author():
-    return ""
+    global authors, page, items_per_page
+    authors = author_json_to_list_of_dicts(
+        get_openl_authors(request.form["author_name"]), items_per_page=items_per_page
+    )
+    page = 0
+    return redirect("author_search")
 
 
 if __name__ == "__main__":
