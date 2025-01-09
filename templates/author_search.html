@@ -35,7 +35,7 @@
 			<li class="page-item"><a class="page-link" href="{{url_for('prev_page')}}">Previous</a></li>
 			{% endif %}
 			<li class="page-item active"><a class="page-link" href="#">{{page+1}}</a></li>
-			{% if page != list_length-1 %}
+			{% if page != list_length-2 %}
 			<li class="page-item"><a class="page-link" href="{{url_for('next_page')}}">Next</a></li>
 			{% endif %}
 		</ul>
