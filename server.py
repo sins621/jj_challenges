@@ -31,7 +31,7 @@ def get_openl_authors(author_name):
     return data["docs"]
 
 
-def author_json_to_list_of_dicts(author_list_data, items_per_page):
+def paginate_author_data(author_list_data, items_per_page):
     author_list = []
 
     for author_item in author_list_data:
@@ -50,7 +50,7 @@ def author_json_to_list_of_dicts(author_list_data, items_per_page):
 
 
 items_per_page = 20
-authors = author_json_to_list_of_dicts(test_data_author_list, items_per_page)
+authors = paginate_author_data(test_data_author_list, items_per_page)
 page = 0
 
 app = Flask(__name__)
@@ -86,7 +86,7 @@ def prev_page():
 @app.route("/author_search", methods=["POST"])
 def search_author():
     global authors, page, items_per_page
-    authors = author_json_to_list_of_dicts(
+    authors = paginate_author_data(
         get_openl_authors(request.form["author_name"]), items_per_page=items_per_page
     )
     page = 0
